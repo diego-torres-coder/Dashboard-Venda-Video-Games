@@ -15,7 +15,7 @@ st.set_page_config(
     page_title='Dashboard Games',
     page_icon=':video-game:',
     layout='wide',
-    initial_sidebar_state='collapsed'
+    initial_sidebar_state='expanded'
 )
 
 
